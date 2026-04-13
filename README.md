@@ -49,5 +49,5 @@ Healthcare organizations often struggle with fragmented data, making it difficul
 * Improved overall **decision-making efficiency** through real-time data visibility
 * Enabled stakeholders to quickly spot trends and take proactive actions
 
-![image alt]()
+![image alt](https://github.com/piyasdey-analyst/Healthcare-Dashboard/blob/main/Healthcare_Dashboard.png)
 
